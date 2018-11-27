@@ -23,7 +23,7 @@ h1 {
     color: #fff;
     position: absolute;
     left: 50%;
-    top: 30%;
+    top: 0%;
     transform: translateX(-50%);
     white-space: nowrap;
 }
