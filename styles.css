@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: rgb(226, 226, 226);
+}
+layout {
+    
+    -webkit-flex-flow: row wrap;
+    display: flex;
+
+}
+
+layout div {
+-webkit-box-flex: auto;
+-ms-flex: auto;
+flex: auto;
+width: 405px;
+margin: .2vw;
+}
+
+layout div img {
+    width: 100%;
+    height: auto;
+}
+
